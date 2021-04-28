@@ -1,8 +1,9 @@
 <?php
 	
-	$a= "SK_GHOSH";
+	$a=1; //assignment operator
+	$b=0;
 	
-	print "hello world".$a;
+	echo !$b;	
+
 
 ?>
-// 11
