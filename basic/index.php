@@ -1,9 +1,7 @@
 <?php
 
-	$a= 30;
-	$b= 20;
-	$c= "this is my";
+	$name="Showrov Ghosh";
 	
-	echo $a;
+	echo $name;
 
 ?>
