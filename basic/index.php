@@ -1,7 +1,8 @@
 <?php
-
-	$name="Showrov Ghosh";
 	
-	echo $name;
+	$a= "SK_GHOSH";
+	
+	print "hello world".$a;
 
 ?>
+// 11
