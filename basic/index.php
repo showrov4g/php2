@@ -1,8 +1,6 @@
 <?php
-	
-	$a=1; //assignment operator
-	$b=0;
-	
-	echo !$b;	
+	$x= "Hello i am showrov ghosh";
+	$y= "This is my first PHP Code";
+	echo $x." "." ".$y;
 	
 ?>
