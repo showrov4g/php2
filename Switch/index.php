@@ -9,7 +9,6 @@
 		break;
 		case 70: echo "it is equal to 70";
 		break;
-		default : "none fo them";
 	}
 	echo "you have come out";
 
