@@ -1,35 +1,28 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title></title>
-	</head>
-	<body style="font-size: 40px;">
-		<?php
-		# fi else statement
+<?php
+# minmum ar maximum number
 
-		$a=33;
-		
-		
-		if($a==100)
-		{
-			echo "He will get golden";
+	$a=1;
+	$b=5;
+	$c= 10;
+	$max= $a;
+
+	
+	// maximum
+	if($b>$max){
+		if($b>$c){
+			echo "B is greatest", $b;
 		}
-		else if($a==60)
-		{
-			echo "he is get 60%";
+		else{
+			echo "c is greatest", $c;
 		}
-		else if($a==40)
+	}
+	else
+	{
+		if($c>$max)
 		{
-			echo "he fail in on subject";
+			echo "C is greatest than",$c;
 		}
-		else
-		{
-			echo "he is faill";
-		}
+		echo "A is gratest", $a;
+	}
 
-		?>
-
-
-
-	</body>
-</html>
+?>
