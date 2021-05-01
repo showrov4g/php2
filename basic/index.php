@@ -2,10 +2,12 @@
 	//defferance bettwine dubble cottation and singel cottation
 	
 	$x= 500;
-	
-	$a= "i am showrov ghosh";
-	$b= "This is my first PHP code";
-	
-	echo $x;
+	$y= "500";
+	if($x===$y)
+	echo "both are equal";
+	else
+{
+		echo "Both are not equal";
+	}
 
 ?>
