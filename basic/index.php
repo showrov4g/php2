@@ -1,8 +1,11 @@
 <?php
-	$x= "Hello i am showrov ghosh";
-	$y= "This is my first PHP Code";
-	$z= 5;
-	$value= "this is string $z";
-	echo $value;
+	//defferance bettwine dubble cottation and singel cottation
 	
+	$x= 500;
+	
+	$a= "i am showrov ghosh";
+	$b= "This is my first PHP code";
+	
+	echo $x;
+
 ?>
