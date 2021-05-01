@@ -1,7 +1,7 @@
 <?php
 # minmum ar maximum number
 
-	$a=1;
+	$a=100;
 	$b=5;
 	$c= 10;
 	$max= $a;
