@@ -1,7 +1,10 @@
 <?php
 	
-	define("test",500);
-	$sum = test + 20;
-	echo $sum;
-
+	$a=10;
+	$b= 40;
+	
+	$c= $a * $b;
+	
+	echo $c;
+	
 ?>
