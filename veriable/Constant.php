@@ -1,6 +1,9 @@
 <?php
-	define("text",50);
+	define("test",50);
 	
-	echo text;
+	// echo test;
+	$sum = test + 30;
+	
+	echo $sum;
 
 ?>
