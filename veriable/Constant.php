@@ -1,10 +1,10 @@
 <?php
-	define("test", 50);
+	define("test", 50, true);
 	
-	// echo test;
+	echo test;
 	
-	$sum= test + 20;
+	// $sum= test + 20;
 	
-	echo $sum;
+	// echo $sum;
 
 ?>
